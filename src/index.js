@@ -8,7 +8,7 @@ import './style.css';
 const content = document.querySelector('#content');
 let html = `
 <div class="header">
-    <h1>Ristorante Italiano</h1>
+    <h1>Ristorante Italiano </h1>
     <ul class="navbar">
         <li class="home">Home</li>
         <li class="menu">Menu</li>
